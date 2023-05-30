@@ -1,0 +1,9 @@
+[
+    {
+        "ChargeType":"BRN - Base Rent",
+        "Frequency":"Monthly",
+        "EscType":"Fixed Increase",
+        "LeaseTerm":"1st of Month After",
+        "LeaseTermDefined":"Calendar Year"
+    }
+]
